@@ -162,3 +162,4 @@ cython_debug/
 # My ignored list
 **/venvDS
 **/csv-xlsx-txt
+/espacio-trabajo.code-workspace
